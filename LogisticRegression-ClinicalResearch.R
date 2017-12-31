@@ -1,5 +1,5 @@
 # Name: Avi Kumar
-# Email: avi271918@gmail.com
+# Email: avi271981@gmail.com
 # 
 
 ########################################################################################################
@@ -12,7 +12,7 @@ library(ggplot2) # Data visualization
 library(readr) # CSV file I/O, e.g. the read_csv function
 
 # Load dataset
-db = read.csv('C:/data_science_learnbay/diabetes.csv', header=TRUE)
+db = read.csv('path to the file/diabetes.csv', header=TRUE)
 
 # Understand the structure of the dataset
 str(db)
